@@ -31,6 +31,6 @@ POST /stats
 ![image](https://user-images.githubusercontent.com/76888617/163678337-236e9ed2-c8ae-4990-baee-094b4b6d76e0.png)
 
 
-## Dependecies
+## Dependencies
 - Spring Boot
 - Jackson
